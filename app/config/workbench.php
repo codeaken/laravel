@@ -13,7 +13,7 @@ return array(
     |
     */
 
-    'name' => '',
+    'name' => 'Magnus Johansson',
 
     /*
     |--------------------------------------------------------------------------
@@ -26,6 +26,6 @@ return array(
     |
     */
 
-    'email' => '',
+    'email' => 'magnus@codeaken.com',
 
 );
