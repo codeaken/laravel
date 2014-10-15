@@ -33,11 +33,5 @@
     "config": {
         "preferred-install": "dist"
     },
-    "minimum-stability": "stable",
-    "repositories": [
-        {
-            "type": "git",
-            "url": "https://github.com/codeaken/laravel.git"
-        }
-    ]
+    "minimum-stability": "stable"
 }
